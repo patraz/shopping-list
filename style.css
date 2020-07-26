@@ -54,6 +54,11 @@ p {
 body {
   background-color:#1B245A;
 }
+@media screen and (max-width: 600px) {
+  body {
+    background-image:url(tlo.jpg);
+  }
+}
 
 ul {
   font-size: 1.5em;
