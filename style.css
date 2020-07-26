@@ -1,0 +1,59 @@
+.container {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+}
+
+.title {
+  font-size: 4rem;
+  height:25vh;
+  line-height: 25vh;
+  color: white;
+  font-family: 'Niconne', cursive;
+  font-weight: 700;
+  text-shadow: 5px 5px 0px #eb452b, 
+                  10px 10px 0px #efa032, 
+                  15px 15px 0px #46b59b, 
+                  20px 20px 0px #017e7f, 
+                  25px 25px 0px #052939;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+#userinput {
+  padding: 4px;
+}
+
+.delete {
+  margin-left: 30px;
+}
+
+p {
+  margin-top:0px;
+  font-size: 2em;
+}
+
+body {
+  background-color:#1B245A;
+}
+
+ul {
+  font-size: 1.5em;
+}
+ul, p {
+  font-family: 'Bebas Neue', cursive;
+  list-style: none;
+  color: white;
+
+}
+
+button {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 1em;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
